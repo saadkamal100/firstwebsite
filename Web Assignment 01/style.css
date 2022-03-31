@@ -66,8 +66,8 @@ color: #fb2274;
 .banner-image{
 	background: url("image/pic02.jpeg") no-repeat top center;
 	background-size: cover;
-	width: 1350px;
-	height: 350px;
+	width: 100%;
+	height: 600px;
 	display: flex;
 	justify-content: center;
 	align-items: center;	
